@@ -34,11 +34,11 @@ Ready to turn your ideas into reality • Available for your next project
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=young-monk-samarth&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=SAMARTH-MUKTAMATH&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=young-monk-samarth&theme=blue_navy&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SAMARTH-MUKTAMATH&theme=blue_navy&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=young-monk-samarth&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARTH-MUKTAMATH&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -48,7 +48,7 @@ Ready to turn your ideas into reality • Available for your next project
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=young-monk-samarth&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SAMARTH-MUKTAMATH&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
